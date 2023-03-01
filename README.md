@@ -8,7 +8,7 @@
 
 ---
 
-## I have experience with these technologies:
+## I have experience with the following technologies:
 
 <br/>
 
